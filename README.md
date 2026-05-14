@@ -1,6 +1,14 @@
 <div align="center">
   <h1>Lumora Sovereign AI</h1>h1>
-  <h3>The Monolithic Four-Core Architecture (Lite Kernel)</h3>h3>
+  <h3>The Monolithic Four-Core Architecture (Lite Kernel)</h3>h3>## Overview## Overview
+  **Lumora** is a paradigm shift in Artificial General Intelligence (AGI). Instead of relying on massive, bloated python scripts and external HTTP-based LLMs to simulate "agency", Lumora fuses four conceptual cores (Pulse, Neural, Quantum, and Field) into a single, unified, ultra-lightweight **C++ monolithic executable**.
+
+  This repository contains the **Lumora Lite Kernel** (Community Edition). It serves as an architectural proof-of-concept for developers to verify the claims published in our Zenodo research paper.
+  
+  **Lumora** is a paradigm shift in Artificial General Intelligence (AGI). Instead of relying on massive, bloated python scripts and external HTTP-based LLMs to simulate "agency", Lumora fuses four conceptual cores (Pulse, Neural, Quantum, and Field) into a single, unified, ultra-lightweight **C++ monolithic executable**.
+
+  This repository contains the **Lumora Lite Kernel** (Community Edition). It serves as an architectural proof-of-concept for developers to verify the claims published in our Zenodo research paper.
+  
   <p><i>A conceptual demonstration of the 135 KB Sovereign C++ Kernel</i>i></p>p>
   <a href="https://zenodo.org/records/20187621">Read the Full Research Paper on Zenodo</a>a>
 </div>div>
