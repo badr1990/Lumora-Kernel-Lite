@@ -2,7 +2,7 @@
   <h1>🌌 Lumora Sovereign AI</h1>
   <h3>The Monolithic Four-Core Architecture (Lite Kernel)</h3>
   <p><i>A conceptual demonstration of the 135 KB Sovereign C++ Kernel</i></p>
-  <a href="https://zenodo.org/">Read the Full Research Paper on Zenodo</a>
+  <a href="(https://zenodo.org/records/20187621)/">Read the Full Research Paper on Zenodo</a>
 </div>
 
 ---
